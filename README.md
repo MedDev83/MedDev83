@@ -2,7 +2,7 @@
 - 👀 I’m interested in DevWeb FULLSTACK
 - 🌱 I’m currently learning PHP, MySQL, JS, Java...
 - 💞️ I'm looking to collaborate in BigData once qualified
-- 📫 How to reach me 
+- 📫 How to reach me :</br>
       <a href="mailto:contact@dlt-dev.com">contact@dlt-dev.com</a></br>
       <a href="www.linkedin.com/in/melvindolet">LinkedIn</a>
 
