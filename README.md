@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=roboto&duration=6500&color=C78D80&center=true&vCenter=true&multiline=true&width=700&height=120&lines=%F0%9F%91%8B+Hi%2C+I%E2%80%99m+Melvin+alias+%40MedDev83;%F0%9F%91%80+I%E2%80%99m+interested+in+DevWeb+FULLSTACK;%F0%9F%8C%B1+I%E2%80%99m+currently+learning+PHP%2C+MySQL%2C+JS%2C+Java...;%F0%9F%92%9E%EF%B8%8F+I'm+looking+to+collaborate+in+BigData+once+qualified)](https://dlt-dev.com)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=roboto&size=25&duration=6500&pause=1000&color=C78D80&center=true&vCenter=true&multiline=true&width=700&height=140&lines=%F0%9F%91%8B+Hi+I'm+Melvin+alias+MedDev83;%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+I+work+as+a+Software+Engineer;%F0%9F%94%A7+My+skills+%F0%9F%94%A7;%F0%9F%91%81%EF%B8%8F+Java%2C+SpringBoot%2C+Angular%2C+Tailwind%2C+PHP%2C+MySQL%2C+JS)](https://dlt-dev.com)
 
 📫 How to reach me :</br>
       <a href="mailto:contact@dlt-dev.com">contact@dlt-dev.com</a></br>
