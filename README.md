@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=roboto&size=25&duration=6500&pause=1000&color=C78D80&center=true&vCenter=true&multiline=true&width=700&height=140&lines=%F0%9F%91%8B+Hi+I'm+Melvin+alias+MedDev83;%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+I+work+as+a+Software+Engineer;%F0%9F%94%A7+My+skills+%F0%9F%94%A7;%F0%9F%91%81%EF%B8%8F+Java%2C+SpringBoot%2C+Angular%2C+Tailwind%2C+PHP%2C+MySQL%2C+JS)](https://dlt-dev.com)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=2000&center=true&vCenter=true&multiline=true&width=600&height=200&lines=Hi+I'm+Melvin+alias+NeoStelod;I+work+as+a+Software+Engineer+since+2022;I'm+the+the+Founder+of+NeoStelod+%26+NS+Script;Feel+free+to+contact+us+if+you+need+anything.)](https://git.io/typing-svg)
 
 📫 How to reach me :</br>
       <a href="mailto:contact@dlt-dev.com">contact@neostelod.fr</a></br>
